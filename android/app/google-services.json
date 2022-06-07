@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "708083984008",
+    "project_id": "flutterfarkle",
+    "storage_bucket": "flutterfarkle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708083984008:android:b145038befcd30fc32213d",
+        "android_client_info": {
+          "package_name": "dev.sustare.flutterfarkle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708083984008-bniheddggono0oben6cc7e0ek7d5cb43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3RC7Qfzrz_-lqvQYI5yVsZDQORfNyGGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708083984008-bniheddggono0oben6cc7e0ek7d5cb43.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708083984008-goe5jb4f5dbhtaucoo9qtf8i17mj42a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterfarkle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
