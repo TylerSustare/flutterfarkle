@@ -53,6 +53,7 @@ class DefaultFirebaseOptions {
     projectId: 'flutterfarkle',
     authDomain: 'flutterfarkle.firebaseapp.com',
     storageBucket: 'flutterfarkle.appspot.com',
+    measurementId: 'G-98ZV8RXN0R',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
